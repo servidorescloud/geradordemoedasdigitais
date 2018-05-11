@@ -1,4 +1,4 @@
-cryptonote-generator
+Gerador de Moedas Digitais / Criador de Moedas Digitais - cryptonote-generator
 ==================
 
 A python / bash Cryptonote source creator. Generate and compile new or maintain old code with a single command.
